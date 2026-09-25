@@ -1,7 +1,7 @@
 # Colab-Neural-Network-Project-for-material-design
 Predicting molecular formation enthalpy from atomic structures using SOAP descriptors and PyTorch neural networks.
 
-Recommend opening this up in colab to avoid compatibility and version issues. 
+Recommend opening this up in Google Colab to avoid compatibility and version issues. 
 
 The code does take a while to run.
 
